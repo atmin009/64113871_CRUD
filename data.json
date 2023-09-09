@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Suppanat Kunnui",
+      "email": "a@local.com",
+      "password": "12345",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "fullname": "Min Min",
+      "email": "b@local.com",
+      "password": "456",
+      "gender": null
+    },
+    {
+      "id": 3,
+      "fullname": "min suppanat",
+      "email": "asd@local.com",
+      "password": "1234",
+      "gender": null
+    }
+  ]
+}
